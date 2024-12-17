@@ -76,3 +76,4 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 **RESULTS**
+Thus the truth table of sr_flipflop in Quartus || using Verilog programming are studied, verified and executed successfully.
